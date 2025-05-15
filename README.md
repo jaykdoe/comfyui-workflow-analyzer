@@ -3,7 +3,7 @@
 ## **Overview**
 
 ```
-![](https://github.com/jaykdoe/v0-comfyui-workflow-analyzer/blob/main/public/comfyui-workflow-analyzer.gif)
+![](https://github.com/jaykdoe/v0-comfyui-workflow-analyzer/comfyui-workflow-analyzer.gif)
 ```
 
 This repository contains the code for the Comfyui Workflow Analyzer, a tool for analyzing and visualizing workflows. The project is built using React and Next.js, and is deployed on Vercel.
