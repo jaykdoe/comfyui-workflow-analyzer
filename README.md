@@ -10,7 +10,7 @@ This repository contains the code for the Comfyui Workflow Analyzer, a tool for 
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/jaykdoes-projects/v0-comfyui-workflow-analyzer.git](https://github.com/jaykdoe/comfyui-workflow-analyzer.git)`
+1. Clone the repository: `git clone https://github.com/jaykdoe/comfyui-workflow-analyzer.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm run dev` or `yarn dev`
 
