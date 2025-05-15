@@ -4,13 +4,13 @@
 
 ![](https://github.com/jaykdoe/v0-comfyui-workflow-analyzer/comfyui-workflow-analyzer.gif)
 
-This repository contains the code for the Comfyui Workflow Analyzer, a tool for analyzing and visualizing workflows. The project is built using React and Next.js, and is deployed on Vercel.
+This repository contains the code for the Comfyui Workflow Analyzer, a tool for analyzing and visualizing Comfyui workflows. The project is built using React and Next.js, and is deployed on Vercel.
 
 ## **Getting Started**
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jaykdoes-projects/v0-comfyui-workflow-analyzer.git`
+1. Clone the repository: `git clone [https://github.com/jaykdoes-projects/v0-comfyui-workflow-analyzer.git](https://github.com/jaykdoe/comfyui-workflow-analyzer.git)`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm run dev` or `yarn dev`
 
@@ -79,15 +79,4 @@ Your project is live at:
 
 [**https://vercel.com/jaykdoes-projects/v0-comfyui-workflow-analyzer**](https://vercel.com/jaykdoes-projects/v0-comfyui-workflow-analyzer)
 
-## Build your app
 
-Continue building your app on:
-
-[**https://v0.dev/chat/projects/D1ydYR7VtLC**](https://v0.dev/chat/projects/D1ydYR7VtLC)
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
